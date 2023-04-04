@@ -1,17 +1,5 @@
 
 
-### <h1 align="center">Привет, меня зовут Аня!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
-
-
-
-
-- 🌱 Learning JavaScript and React. 
-- 🎓 Люблю образовательные проекты :) Scientia potentia est!
-- 😄 В прошлом: философский факультет МГУ, College Universitaire Francais и Paris IV, Sorbonne Université 
-- 📫 Связаться со мной можно по почте: a.baraulina@yandex.ru и в телеграм: @AnnBaraulina
-
-
-
 
 
 
