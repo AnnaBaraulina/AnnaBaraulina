@@ -1,9 +1,9 @@
 
-#Hello, my name is Anna,
+Hello, my name is Anna,
 
-###I am a novice web developer. Currently, I am working on educational and non-commercial projects at Yandex Practicum. In my free time, I study new libraries and frameworks.
+I am a novice web developer. Currently, I am working on educational and non-commercial projects at Yandex Practicum. In my free time, I study new libraries and frameworks.
 
-1.I have already studied: ***HTML, CSS, SCSS, responsive design, cross-browser layout, JavaScript, Git, Webpack, React, Redux, Versel, Next.js, GitHub pages, API***.
+1.I have already studied: HTML, CSS, SCSS, responsive design, cross-browser layout, JavaScript, Git, Webpack, React, Redux, Versel, Next.js, GitHub pages, API.
 
 2.In the near future, I plan to study: TypeScript, Node.js.
 
@@ -11,9 +11,9 @@
 
 4.I love creating stylish, animated, responsive websites that are comfortable and enjoyable for users. That's exactly what I want to build.
 
-####You can contact me at:
+You can contact me at:
 
-Telegram: @AnnBaraulina<br>
+Telegram: @AnnBaraulina
 Email: a.baraulina@yandex.ru
 
 
