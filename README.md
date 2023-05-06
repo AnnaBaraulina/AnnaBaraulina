@@ -1,15 +1,15 @@
 
 Hello, my name is Anna,
 
-I am a novice web developer. Currently, I am working on educational and non-commercial projects at Yandex Practicum. In my free time, I study new libraries and frameworks.
+I am an aspiring web developer with hands-on experience working with various technologies. Currently, I am actively involved in building educational and non-commercial projects at Yandex Practicum. In addition, I am always eager to learn and improve my skills to stay up-to-date with the latest web development technologies.
 
-1. I have already studied: HTML, CSS, SCSS, responsive design, cross-browser layout, JavaScript, Git, Webpack, React, Redux, Versel, Next.js, GitHub pages, API.
+I have experience working with a range of technologies including HTML, CSS, SCSS, responsive design, cross-browser layout, JavaScript, Git, Webpack, React, Redux, Versel, Next.js, and GitHub pages.
 
-2. In the near future, I plan to study: TypeScript, Node.js.
+As a web developer, I believe in constantly improving my skills and staying up-to-date with the latest web development trends. I am always eager to learn new technologies and tools to enhance my abilities and deliver high-quality results.
 
-3. I enjoy working on both the appearance and logic of websites. I am looking for a team where we can learn from each other's experience, work on challenging goals, and develop into top-notch professionals.
+In the near future, I plan to expand my expertise to include TypeScript and Node.js.
 
-4. I love creating stylish, animated, responsive websites that are comfortable and enjoyable for users. That's exactly what I want to build.
+I am passionate about creating visually appealing, dynamic, and user-friendly websites. I am eager to collaborate with like-minded professionals in a team environment, where I can learn from their experiences and work together towards challenging goals.
 
 You can contact me at:
 
