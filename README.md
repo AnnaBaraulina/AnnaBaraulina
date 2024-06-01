@@ -1,7 +1,7 @@
 
 Hello, my name is Anna,
 
-I am an Frontend developer with hands-on experience working with various technologies. I am always eager to learn and improve my skills to stay up-to-date with the latest web development technologies.
+I am an web developer with hands-on experience working with various technologies. I am always eager to learn and improve my skills to stay up-to-date with the latest web development technologies.
 
 I have experience working with a range of technologies including __HTML, CSS, SCSS, responsive design, cross-browser layout, JavaScript, TypeScript, Git, Webpack, React, Redux, Versel, Next.js, API, Web-Socket and GitHub pages.__
 
