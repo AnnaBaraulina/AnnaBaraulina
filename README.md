@@ -7,8 +7,8 @@ I am passionate about creating visually appealing, dynamic, and user-friendly we
 
 You can contact me at:<br/>
 <br/>
-__Telegram:__ @AnnBaraulina<br/>
-__Email:__ a.baraulina@yandex.ru<br/>
+__Telegram:__ @AnnBrln<br/>
+__Email:__ anna.baraulina@gmail.com<br/>
 
 
 
