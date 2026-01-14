@@ -1,13 +1,8 @@
 
 Hello, my name is Anna,
 
-I am a web developer based in France.
-
-I am passionate about creating visually appealing, dynamic, and user-friendly websites. I am eager to collaborate with like-minded professionals in a team environment, where I can learn from their experiences and work together towards challenging goals.
-
 You can contact me at:<br/>
 <br/>
-__Telegram:__ @AnnBrln<br/>
 __Email:__ anna.baraulina@gmail.com<br/>
 
 
